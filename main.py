@@ -1,2 +1,3 @@
 print('git check')
-print('git ch') # TODO
+print('git ch')
+print('log check')
