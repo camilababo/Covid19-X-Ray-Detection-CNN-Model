@@ -1,1 +1,0 @@
-# Dataset obtained from: https://www.kaggle.com/datasets/pranavraikokte/covid19-image-dataset?resource=download
