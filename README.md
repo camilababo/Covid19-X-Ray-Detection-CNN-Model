@@ -45,13 +45,13 @@ To use this project, you can follow the following steps:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/camilababo/CNN-image-classifier
+    git clone https://github.com/camilababo/Covid19-X-Ray-Detection-CNN-Model
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd CNN-image-classifier
+    cd Covid19-X-Ray-Detection-CNN-Model
     ```
 
 3. Install the required dependencies using pip and the provided requirements.txt file:
