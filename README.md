@@ -2,7 +2,7 @@
 
 ## Overview
 
-Project to explore the use of TensorFlow to develop a Convolutional Neural Network (CNN) model to detect COVID-19 infection in X-ray images. The model is trained to classify X-ray images into two categories: normal and infected with COVID-19. The dataset used for training and evaluation is sourced from Kaggle and consists of X-ray images obtained from the University of Montreal.
+This project explores the use of TensorFlow to develop a Convolutional Neural Network (CNN) model to detect COVID-19 infection in X-ray images. The model is trained to classify X-ray images into two categories: normal and infected with COVID-19. 
 
 ## Dataset
 
@@ -23,10 +23,10 @@ An additional validation dataset was created by taking batches from the training
 ├── models  
 │ └── covid19_xray_detection_model.h5  
 ├── logs  
-│ ├── train 
-│ │ ├── events.out.tfevents.1708282339.0.v2
+│ ├── train   
+│ │ ├── events.out.tfevents.1708282339.0.v2  
 │ ├── validation  
-│ │ ├── events.out.tfevents.1708282366.1.v2
+│ │ ├── events.out.tfevents.1708282366.1.v2  
 └── .gitignore
 
 ## Requirements
@@ -63,5 +63,5 @@ To use this project, you can follow the following steps:
 4. Open the provided Jupyter Notebook, `cnn-classifier-pipeline.ipynb`, using Jupyter and run the pipeline.
 
 
-5. The trained model file is also available in `models/covid19_xray_detection_model.h5.h5`.
+5. The trained model file is also available in `models/covid19_xray_detection_model.h5`.
 
